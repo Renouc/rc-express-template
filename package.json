@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "npx nodemon ./src/main.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
